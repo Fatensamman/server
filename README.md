@@ -1,5 +1,5 @@
 ## Deploy and Extend Your Portfolio
-![deployed site](https://portfolio-faten.herokuapp.com/)
+[deployed site](https://portfolio-faten.herokuapp.com/)
 
 
 Number and name of feature: Feature #1: Deployment
